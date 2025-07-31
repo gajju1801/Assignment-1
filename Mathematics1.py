@@ -1,0 +1,7 @@
+a=float(input("Enter the first number: "))
+b=float(input("Enter the second number: "))
+c=float(a+b)
+d=float(a-b)
+e=float(a*b)
+f=float(a/b)
+print("addition: ",c,"\nsubtraction: ",d,"\nmultiplication: ",e,"\ndivision: ",f)
